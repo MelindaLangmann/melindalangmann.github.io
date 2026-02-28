@@ -1,3 +1,3 @@
-[Self_Regulation](Selfregulation)
+[Self Regulation](Selfregulation)
 
 [Facts so far](Facts)
