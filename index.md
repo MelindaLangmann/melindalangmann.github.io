@@ -1,3 +1,3 @@
-[Self_regulation](Guide_to_increase_self_awareness)
+[Self_Regulation](Selfregulation)
 
 [Facts so far](Facts)
